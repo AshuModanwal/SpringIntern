@@ -1,0 +1,55 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Internship",
+      "url": "/pricing"
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Company",
+      "menu": [
+        {
+          "text": "Internship",
+          "url": "/pricing"
+        },
+        {
+          "text": "Quick Start",
+          "url": "/"
+        }
+      ]
+    },
+    {
+      "name": "Product",
+      "menu": [
+        
+        {
+          "text": "Platform",
+          "url": "#"
+        }
+        
+      ]
+    },
+    {
+      "name": "Support",
+      "menu": [
+        {
+          "text": "Privacy Policy",
+          "url": "#"
+        },
+        {
+          "text": "Terms & Conditions",
+          "url": "#"
+        }
+      ]
+    }
+  ]
+}

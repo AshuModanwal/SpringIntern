@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "SpringIntern",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "48",
+    "logo_text": "InternSpring"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Apply Now",
+    "link": "/pricing"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "It is a privately owned Internship Providing Startup, Which will provide you to help in developing industry level project by best Instructor who are already serving IT Industry. ",
+    "copyright": "Designed & Developed By [SpringIntern]"
+  },
+
+  "metadata": {
+    "meta_author": "InternSpring",
+    "meta_image": "",
+    "meta_description": "A SAAS template for nextjs"
+  }
+}
